@@ -15,7 +15,7 @@ function keyname {
 }
 
 function sleepTime {
-  STIME=${1:-"3m"}
+  STIME=${1:-"5m"}
 }
 
 function launch {
